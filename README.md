@@ -38,7 +38,7 @@ This project aims to build a comprehensive healthcare performance dashboard usin
 
 ## Dashboard Preview
 
-![Healthcare KPI Dashboard](images/healthcare_dashboard.png)  
+![Healthcare KPI Dashboard](images/Healthcare_Dashboard.png)  
 *Figure: Snapshot of the interactive healthcare dashboard.*
 
 ---
