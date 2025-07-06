@@ -45,4 +45,47 @@ This project aims to build a comprehensive healthcare performance dashboard usin
 
 ## Tools Used
 
-- Microsoft Excel (Pivot Tabl
+- Microsoft Excel (Pivot Tables, Charts, Slicers)
+- Git & GitHub (version control and project documentation)
+
+---
+
+## Dataset Description
+
+The dataset includes anonymized patient data with the following fields:
+- Admission Date
+- Hospital Name
+- Gender
+- Disease/Diagnosis
+- Billing Amount
+- Admission Type
+- Test Result
+
+_Note: This project uses synthetic or publicly available healthcare data._
+
+---
+
+## Key Insights
+
+- Patient volume has steadily increased over the years.
+- Emergency admissions dominate the admission types.
+- Diseases such as obesity and arthritis are the most common.
+- The top five hospitals account for a significant share of patient volume.
+
+---
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open the `healthcare_dashboard.xlsx` file.
+3. Use the available slicers to interact with:
+   - Year
+   - Gender
+   - Test Result
+4. Explore the visualized KPIs and trends based on selected filters.
+
+---
+
+## Contact
+
+If you have questions, suggestions, or would like to collaborate, feel free to connect via [LinkedIn](https://www.linkedin.com/in/aqilah-fedura-ilahi-899374339/) or open an issue in this repository.
